@@ -1,0 +1,34 @@
+# Web 框架
+fastapi
+uvicorn[standard]
+
+# 数据校验与 ORM
+pydantic
+sqlmodel
+
+# LangChain 全家桶
+langchain
+langchain-corn
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# 向量数据库
+chromadb
+
+# Embedding 模型（阿里云百炼）
+dashscope
+
+# 环境变量
+python-dotenv
+
+# 文档加载（RAG 语料）
+unstructured
+markdown
+
+# Redis 缓存
+redis
+
+# HTTP 客户端（测试用）
+httpx
